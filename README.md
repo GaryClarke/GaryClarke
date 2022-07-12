@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Gary and I create PHP related courses on YouTube and at https://www.garyclarke.tech
 
-<!--
-**GaryClarke/GaryClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on async-symfony
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
