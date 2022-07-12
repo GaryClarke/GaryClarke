@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Gary and I create PHP related courses on YouTube and at https://www.garyclarke.tech
 
 
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working on async-symfony
+<--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
